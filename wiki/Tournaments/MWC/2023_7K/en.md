@@ -27,7 +27,7 @@ The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is an upcoming country-b
 
 ## Prizes
 
-The osu!mania 4K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)!**
+The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)!**
 
 | Placing | Prizes |
 | :-: | :-- |
