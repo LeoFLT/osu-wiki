@@ -24,7 +24,7 @@ All prospective helpers will have to answer the first with form, which contains 
 
 Participants that clear the first stage will have to answer another form, this time with even more specific questions meant to gauge their experience, skill, and methodology on various aspects of mapping and/or playtesting. After this stage, one of four things may happen:
   - The candidate is invited to staff for MWC 4K
-  - The candidate is invited to an individual interview before receiving an invitation
+  - The candidate is invited to an individual interview before proceeding
   - The candidate is invited to staff for RAFT
   - The candidate is not invited to either team
 
