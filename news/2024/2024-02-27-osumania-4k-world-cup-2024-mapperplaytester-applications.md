@@ -10,6 +10,8 @@ Are you interested in helping with the mappooling process for our very own osu!m
 
 As with every year, the folks over at the 4K MWC mappooling team have opened applications for both mappers and playtesters, but this time with a multi-step process, aiming to give newcomers a chance to acquire staffing experience.
 
+### Role overview
+
 Mappers will be tasked with creating beatmaps (many times of tailor-made, yet-to-be-released [osu! originals](/wiki/osu!_originals)) based on a specification given by each mode's mappooling team. Mappers will be expected to incorporate feedback from the mappoolers and/or playtesters in an iterative process to refine the map until it is in a shippable state.
 
 Playtesters will be responsible for playing and giving feedback for a plethora of beatmaps (as requested by the mappooling team) to gauge aspects such as difficulty, suitability for a certain slot, and/or skill representativity among others (specific workflows vary for each team). Playtesters are generally expected to have considerable skill on their respective game mode.
