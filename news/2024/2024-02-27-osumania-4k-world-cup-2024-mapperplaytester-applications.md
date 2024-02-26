@@ -16,7 +16,7 @@ Mappers will be tasked with creating beatmaps (many times of tailor-made, yet-to
 
 Playtesters will be responsible for playing and giving feedback for a plethora of beatmaps (as requested by the mappooling team) to gauge aspects such as difficulty, suitability for a certain slot, and/or skill representativity among others (specific workflows vary for each team). Playtesters are generally expected to have considerable skill on their respective game mode.
 
-Please note that if you are accepted into either team, you will not be eligible to participate as a player in the corresponding tournament.
+Please note that if you are accepted into either team, you will not be eligible to participate as a player in the tournament.
 
 ### Recruitment process
 
