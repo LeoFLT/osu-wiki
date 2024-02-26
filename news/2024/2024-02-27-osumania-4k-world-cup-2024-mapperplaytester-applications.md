@@ -16,14 +16,22 @@ Playtesters will be responsible for playing and giving feedback for a plethora o
 
 Please note that if you are accepted into either team, you will not be eligible to participate as a player in the corresponding tournament.
 
-### Recruitment overview
+### Recruitment process
 
 ![](/wiki/shared/news/2024-02-27-osumania-4k-world-cup-2024-mapperplaytester-applications/mwc4k2024-apps-flowchart.png)
 
-Prospective helpers will have to answer specific questions created by the mappooling team meant to gauge the participant's compatibility with the existing mappooling methodologies and procedures. Please note that not all participants will receive invitations to the second and/or third stages.
+All prospective helpers will have to answer the first with form, which contains questions aimed at gauging whether or not they're a good fit for the current team.
+
+Participants that clear the first stage will have to answer another form, this time with even more specific questions meant to gauge their experience, skill, and methodology on various aspects of mapping and/or playtesting. After this stage, one of four things may happen:
+  - The candidate is invited to staff for MWC 4K
+  - The candidate is invited to an individual interview before receiving an invitation
+  - The candidate is invited to staff for RAFT
+  - The candidate is not invited to either team
+
+Please note that not all participants will receive invitations to the second and/or third stages, and may not receive invites even if they go through all steps. 
 
 
-If you are considering applying but do not feel like you have the necessary experience, we urge you to still apply – the 4K MWC mappooling team alongside the osu!mania Tourney Central Council has developed a controlled-environment staff mentorship program under the Rapid Fire Tournament Series project, which will give mappers and playtesters with less tournament staffing experience but high potential and interest an opportunity to demonstrate their ability before being fully accepted into the 4K MWC mappooling team.
+If you are considering applying but do not feel like you have the necessary experience, we urge you to still apply – the 4K MWC mappooling team alongside the osu!mania Tourney Central Council has developed a controlled-environment staff mentorship program under the Rapid Fire Tournament Series project (RAFT), which will give mappers and playtesters with less tournament staffing experience but high potential and interest an opportunity to demonstrate their ability before being fully accepted into the 4K MWC mappooling team.
 
 ---
 
