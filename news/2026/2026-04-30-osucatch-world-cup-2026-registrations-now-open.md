@@ -19,7 +19,7 @@ For more details pertaining to the tournament and the new procedures, refer to t
 
 | Event | Date |
 | --: | :-- |
-| Registration phase | Apr 30 (20:00 UTC) – May 14 (23:59 UTC) |
+| Registration phase | Apr 30 (00:00 UTC) – May 14 (23:59 UTC) |
 | Qualifier showcase | May 24 (14:00 UTC) |
 | Qualifier stage | May 30 & May 31 |
 | Round of 32 | Jun 6 & Jun 7 |
