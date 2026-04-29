@@ -110,18 +110,20 @@ The osu!catch World Cup 2026 is run by various community members.
    - The tournament managers will declare one candidate captain of their country's team.
    - The provisional captain will receive a private message on the osu! website containing further instructions, via the announcement feature, titled "osu!catch World Cup 2026 - Team {Country Name}".
 2. The provisional captain will then form their team by selecting players from the candidate pool for their country.
-   - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
-   - Captains are expected to submit their finalised team list **before the deadline**.
-   - Captains are allowed to exclude themselves from the team list.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
-   - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not send their team list by May 14, 23:59 UTC will be disqualified from the competition.**
+   - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
+   - Captains are expected to submit their finalised team list **before the deadline**.
+   - Captains are allowed to exclude themselves from the team list.
+   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
+   - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
+   - **Teams that do not send their team list by May 22, 23:59 UTC will have their members selected by the tournament organisers.**
+     - Auto-selection will be based primarily on osu!catch global rank. However, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!catch global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
+   - The tournament managers must ensure that such staff members do not have access to any privileged data, e.g. Qualifier score information, or mappool information before the mappool showcase.
 
 ### Qualifier instructions
 
@@ -173,8 +175,8 @@ The osu!catch World Cup 2026 is run by various community members.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
      - Repeat offenders may receive further sanctions from the tournament managers.
 5. In the case of a team starting a map with less than the optimal number of players on their roster due to an unforeseen circumstance (e.g. a technical issue or unavoidable player absence), the team in question will be granted the right to fill their roster before play commences. The remainder of the original roster must stay the same, i.e. only player additions are allowed.
-6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional.*
-   - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
+6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional, and is always incremented to the current running timer.*.
+   - The tactical timeout may be called on a tiebreaker, irrespecive of which team asked for it, or how many timeouts remain available.
 
 ### Mappool instructions
 
