@@ -145,32 +145,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 
 ## Match schedule: Semifinals
 
-### Saturday, 28 November 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 36 | South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Nov 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T020000&p1=1440&p2=235&p3=45) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 34 | Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Nov 28 (Sat) 03:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T033000&p1=1440&p2=188&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35 | Germany ::{ flag=DE }:: | ::{ flag=HK }:: Hong Kong | [Nov 28 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T143000&p1=1440&p2=37&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 33 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261128T160000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 29 November 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 38b | South Korea ::{ flag=KR }:: | ::{ flag=HK }:: Hong Kong | [Nov 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T100000&p1=1440&p2=235&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38a | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T110000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 38a | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T110000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 40 | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 37c | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37d | China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=33&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38d | Brazil ::{ flag=BR }:: | ::{ flag=HK }:: Hong Kong | [Nov 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T140000&p1=1440&p2=45&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38c | Brazil ::{ flag=BR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T163000&p1=1440&p2=45&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37a | Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Nov 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T170000&p1=1440&p2=188&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37b | Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T170000&p1=1440&p2=188&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 39 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Nov 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T190000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | SC | Finals | mappool showcase | [Nov 29 (Sun) 20:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T203000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
+
+### Semifinals
+
+Saturday, 28 November 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 36 | **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/122223953) | [#1](https://www.youtube.com/watch?v=7HFPSWnxms0) |
+| 34 | **Canada** ::{ flag=CA }:: | **6** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/122224195) | [#1](https://www.youtube.com/watch?v=nESUP9-XAwM) |
+| 35 | **Germany** ::{ flag=DE }:: | **6** | 4 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/122226348) | [#1](https://www.youtube.com/watch?v=3cWTI6sFF2E) |
+| 33 | United Kingdom ::{ flag=GB }:: | 4 | **6** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/122226912) | [#1](https://www.youtube.com/watch?v=Ykunz59-U5c) |
 
 ### Quarterfinals
 
@@ -868,7 +863,6 @@ The final bracket configuration will be as follows:
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
 [^pf]: PF – Points for this team
 [^pa]: PA – Points against this team
