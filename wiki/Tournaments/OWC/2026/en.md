@@ -151,6 +151,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/dc7
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 38a | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T110000&p1=1440&p2=235&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 40 | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Nov 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 37b | Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T170000&p1=1440&p2=188&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 39 | United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Nov 29 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T190000&p1=1440&p2=263&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | SC | Finals | mappool showcase | [Nov 29 (Sun) 20:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20261129T203000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
